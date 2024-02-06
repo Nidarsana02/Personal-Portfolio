@@ -35,7 +35,7 @@ h1{
     
 }
 body{
-    background-image: url(aboutbg.jpg);
+    background-image: url(/IMAGES/aboutbg.jpg);
     background-repeat: no-repeat;
     background-size: 250% 150%;
 }
@@ -43,4 +43,9 @@ h3{
     color: darkred;
     font-style: italic;
     font-size: xx-large;
+}
+.link{
+    font-size: large;
+    text-align: center;
+    color: darkslategrey;
 }
