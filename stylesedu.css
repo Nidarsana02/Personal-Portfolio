@@ -1,0 +1,106 @@
+h1{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 75px;
+    font-weight: bolder;
+    color:white;
+    text-decoration:underline;
+    margin-top: 50px;
+}
+img{
+    width:350px;
+    margin-right: 20px;
+}
+.school{
+    display: flex;
+    border: 2px solid; 
+    color: bisque;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+    justify-content: space-between;
+}
+.marks{
+    border: 1px solid bisque solid;
+    background-color: bisque;
+    color: blue;
+    border-radius: 50px;
+
+    .reveal{
+        color: transparent;
+    }
+}
+.marks:hover{
+    .reveal{
+        color: blueviolet;
+    }
+}
+
+.school:hover{
+    border: 4px solid bisque;
+    background-color:rgba(97, 125, 179, 0.742);
+}
+.college{
+    display: flex;
+    border: 2px solid  aliceblue;
+    margin-top: 50px;
+    color:aliceblue;
+    font-size: 30px;
+    font-style: italic;
+    justify-content: space-between;
+
+}
+.college:hover{
+    border: 4px solid bisque;
+    background-color:rgba(97, 125, 179, 0.742);
+}
+.school p{
+    text-align:center; 
+    
+}
+.college p{
+    text-align:center;
+    margin-top: 20px; 
+}
+body{
+    background-image: url(https://www.leowealth.com/wp-content/uploads/2022/09/Leo-Wealth-Monthly-View-.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 180%;
+}
+a:link{
+    color:peachpuff;
+    font-style: normal;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration:underline;
+    font-size: 25px;
+}
+@keyframes anim {
+    from {
+        background-image: url(https://www.shutterstock.com/image-vector/vector-graphic-illustration-indian-lady-260nw-1789876901.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        
+    }
+    to {
+        background-image: url(https://thumbs.dreamstime.com/b/art-illustration-205249355.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        
+    }
+  }
+  .animation{
+    margin-left: auto; 
+    margin-right: auto;
+    width: 100%;
+    height: 800px;
+    margin: 30px;
+    border: 1px solid transparent;
+    animation-name: anim;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+  }
+  .link{
+    text-align: center;
+    font-size: 30px;
+    color: cadetblue;
+  }
