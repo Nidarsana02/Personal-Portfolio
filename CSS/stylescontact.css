@@ -27,6 +27,7 @@ p{
     animation-name: anim;
     animation-duration: 3s;
     animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
   }
 
   .right {
@@ -35,6 +36,7 @@ p{
     animation-name: anim2;
     animation-duration: 3s;
     animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
   }
   
   .centered {
