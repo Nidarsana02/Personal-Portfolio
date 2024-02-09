@@ -28,10 +28,10 @@
 <img src="/PHOTOS/CONTACT2.png">
 <br>
 <h3>COMMON FEATURES</h3>
-1. I have used suitable and matching <b>colour combinations, appropriate background and those which do not affect eyes directly.</b>
-2. I have tried my baest at making the <b>alignment</b> perfect.
-3. Colours are used such that they do not get hidden in the background.
-4. Each page apart from the home page has a <b>link which when pressed redirects us back to the home page.</b>
+1. I have used suitable and matching <b>colour combinations, appropriate background and those which do not affect eyes directly.</b><br>
+2. I have tried my baest at making the <b>alignment</b> perfect.<br>
+3. Colours are used such that they do not get hidden in the background.<br>
+4. Each page apart from the home page has a <b>link which when pressed redirects us back to the home page.</b><br>
 5. Appropriate use of <b>icons near the title of the webpage</b> have been taken care of.
 <br>
 <h3 align="center">Thank you <b> GDSC, IIT INDORE</b>, for giving me an opportunity to explore web development.</h3>
