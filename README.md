@@ -19,7 +19,7 @@
 <img src="/PHOTOS/EDUCATION1.png">
 <img src="/PHOTOS/EDUCATION2.png">
 <br>
-<h3>PROJECTS AND OTHER SKILLS</h3>
+<h3>PROJECTS AND OTHER SKILLS:</h3>
 <p>The projects and other skills is a simple webpage which has two images aligned without any space between them. The background has been tried to give a colour suiting its content.</p>
 <br>
 <h3>CONTACT ME:</h3>
@@ -27,7 +27,7 @@
 <img src="/PHOTOS/CONTACT1.png">
 <img src="/PHOTOS/CONTACT2.png">
 <br>
-<h3>COMMON FEATURES</h3>
+<h3>COMMON FEATURES:</h3>
 1. I have used suitable and matching <b>colour combinations, appropriate background and those which do not affect eyes directly.</b><br>
 2. I have tried my baest at making the <b>alignment</b> perfect.<br>
 3. Colours are used such that they do not get hidden in the background.<br>
