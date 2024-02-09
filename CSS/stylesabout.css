@@ -2,15 +2,22 @@
     display: flex;
     justify-content: space-evenly;
     border: 3px solid gray;
-    border-radius: 5%;
+    border-radius: 50%;
 }
 .gallery:hover{
-    border: 4px solid darkslategrey;
+    border: none;
 }
 .gallery img{
     width: 100%;
     height: 100%;
-    border-radius: 5%;
+    border-radius: 50%;
+    
+}
+.gallery img:hover{
+    width: 80%;
+    height: 80%;
+    border: 6px solid gainsboro;
+    animation: rotation 5s infinite ;
 }
 .center-align{
     text-align: center;
@@ -25,6 +32,7 @@
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
+
 }
 h1{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -45,7 +53,19 @@ h3{
     font-size: xx-large;
 }
 .link{
-    font-size: large;
+    font-size: 30px;
+    font-style: italic;
     text-align: center;
     color: darkslategrey;
+}
+.link a{
+    color: brown;
+}
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
 }

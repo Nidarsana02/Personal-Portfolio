@@ -67,7 +67,7 @@ body{
     background-repeat: no-repeat;
     background-size: 100% 180%;
 }
-a:link{
+.web a{
     color:peachpuff;
     font-style: normal;
     font-family:'Times New Roman', Times, serif;
@@ -102,5 +102,8 @@ a:link{
   .link{
     text-align: center;
     font-size: 30px;
-    color: cadetblue;
+    color: lightblue;
+  }
+  .link a{
+    color: lightpink;
   }
