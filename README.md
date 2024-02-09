@@ -34,4 +34,4 @@
 4. Each page apart from the home page has a <b>link which when pressed redirects us back to the home page.</b>
 5. Appropriate use of <b>icons near the title of the webpage</b> have been taken care of.
 <br>
-<h1>Thank you <b>GDSC, IIT INDORE</b>, for giving me an opportunity to explore web development.</h1>
+<h1 align="center">Thank you <b> GDSC, IIT INDORE</b>, for giving me an opportunity to explore web development.</h1>
