@@ -5,7 +5,7 @@
 <br>
 <h3>HOME PAGE:</h3>
 <p>On the home page, as soon as the tab is opened, I have used an <b>animation. This scrolls the image to the right, down, left and then top.</b> There is an introduction box with my photo on it, which was made using flex.Below this are the buttons which navigate to other webpages. The background and buttons are given good contrast. Initially,<b> the buttons are faded. As soon as we hover over it, they become dark.</b></p>
-<img src="./PHOTOS/HOME.png">
+<img src="/PHOTOS/HOME.png">
 <br>
 <h3>ABOUT PAGE:</h3>
 <p>On the about page, I have mentioned my hobbies listed one below the other. Each hobby is mentioned with an image in the shape of a circle with a border of the same shape. <b>On hovering the size of the image reduces and the border thickens.</b> Not only this but the <b>image starts rotating on hovering.</b> This is the feature I have used here.</p>
