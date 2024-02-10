@@ -27,6 +27,9 @@
 <img src="/PHOTOS/CONTACT1.png">
 <img src="/PHOTOS/CONTACT2.png">
 <br>
+<h3> SELECTION COLOR:</h3>
+<p> I have also changed the color of text selection from default to white in olive green background.</p>
+<img src="/PHOTOS/SELECTION.png">
 <h3>COMMON FEATURES:</h3>
 1. I have used suitable and matching <b>colour combinations, appropriate background and those which do not affect eyes directly.</b><br>
 2. I have tried my baest at making the <b>alignment</b> perfect.<br>
