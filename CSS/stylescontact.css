@@ -62,4 +62,7 @@ p{
     from {background-color: black;}
     to {background-color: red;}
   }
-  
+  ::selection{
+    color: azure;
+    background: olive;
+  }

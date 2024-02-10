@@ -107,3 +107,7 @@ body{
   .link a{
     color: lightpink;
   }
+  ::selection{
+    color: azure;
+    background: olive;
+  }

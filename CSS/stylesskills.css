@@ -39,3 +39,7 @@ a:link{
 a{
     color: pink;
 }
+::selection{
+    color: azure;
+    background: olive;
+  }
